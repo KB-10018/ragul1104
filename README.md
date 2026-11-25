@@ -1,100 +1,113 @@
-👋 About Me
 
-<table align="center">
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-           alt="Developer coding animation"
-           width="220" />
-    </td>
-    <td width="70%">Hi, I'm Ragul 👨‍💻
+<div align="center">
 
-🚀 Integration & Test Engineer | Drone Engineer & Pilot
+# 👋 Hi, I'm Ragul
 
-- 💼 Integration & Test Engineer at Killis Bird LLP
-- 🎓 BCA Student at Periyar University
-- 🚁 Passionate about UAV systems, drone integration, and FPV technology
+### Integration & Test Engineer | Drone Engineer & Pilot
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=UAV+Integration+%26+Testing;Drone+Engineer+%26+Pilot;PX4+%7C+ArduPilot+%7C+Betaflight;FPV+Systems+%26+Flight+Controllers;Cybersecurity+%26+Software+Development" alt="Animated drone engineering profile" />
+
+</div>
+
+---
+
+## 🚁 About Me
+
+- 💼 Integration & Test Engineer at **Killis Bird LLP**
+- 🎓 BCA Student at **Periyar University**
+- 🚁 Interested in UAV systems, drone integration, and FPV technology
 - 🛠️ Exploring PX4, ArduPilot, Betaflight, and INAV
+- 🧭 Working with flight controller configuration and system testing
 - 🔐 Interested in cybersecurity, cryptography, and network security
-- 💻 Developer of EmojiGuard (Emojicrypt) — text-to-emoji cryptography
-- 🌱 Continuously learning through hands-on engineering and technical projects
+- 💻 Developer of **EmojiGuard (Emojicrypt)** — text-to-emoji cryptography
+- 🌱 Continuously learning through practical engineering and technical projects
 
-Combining engineering, software, and technology to solve real-world problems.
+*Combining engineering, software, and technology to solve real-world problems.*
 
-</td>
+---
 
-  </tr>
-</table>---
+## 🛠️ Skills & Technologies
 
-🛠️ Skills & Technologies
+### 🚁 Drone & UAV Engineering
 
-🚁 Drone & UAV Engineering
+`UAV Systems` · `Drone Integration` · `Integration Testing` · `System Testing`
 
-- UAV Systems
-- Drone Integration
-- Integration Testing
-- System Testing
-- Flight Controller Configuration
-- PX4
-- ArduPilot
-- Betaflight
-- INAV
-- QGroundControl
-- Mission Planner
-- FPV Systems
+`PX4` · `ArduPilot` · `Betaflight` · `INAV`
 
-💻 Programming & Web Development
+`QGroundControl` · `Mission Planner` · `FPV Systems`
 
-""My Skills" (https://skillicons.dev/icons?i=python,html,css,js,react,&theme=dark)" (https://skillicons.dev)
+### 💻 Programming & Web Development
 
-🔐 Cybersecurity
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react&theme=dark" alt="Python HTML CSS JavaScript React skills" />
+
+### 🔐 Cybersecurity
 
 - Cryptography
 - Network Security
 - Secure Communication
 
-⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=kali,linux&theme=dark" alt="Cybersecurity tools" />
 
-""My Skills" (https://skillicons.dev/icons?i=git,github,vscode,windows,powershell,linux&theme=dark)" (https://skillicons.dev)
+### ⚙️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,powershell&theme=dark" alt="Development tools" />
 
 ---
 
-🚀 Projects
+## 🚀 Projects
 
-🔐 EmojiGuard (Emojicrypt)
+### 🔐 EmojiGuard (Emojicrypt)
 
 A text-to-emoji cryptography project exploring creative methods of transforming text into emoji-based representations.
 
+- Focus: Cryptography and secure communication
+- Technologies: Add the actual technologies you used
+- Repository: Add your EmojiGuard repository link
+
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ragul1104&show_icons=true&theme=radical" alt="Ragul's GitHub Stats" /><br/><img src="https://streak-stats.demolab.com?user=ragul1104&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak" /></div>---
+<div align="center">
 
-📬 Connect With Me
+<img src="https://github-readme-stats.vercel.app/api?username=ragul1104&show_icons=true&theme=radical&hide_border=true" alt="Ragul's GitHub Stats" />
 
-<p align="center">
-  <a href="mailto:rag7674@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ragulv11/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/mr._crazy_evil/">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" alt="Instagram" />
-  </a>
-</p>---
+<br/>
 
-💬 Engineering Mindset
+<img src="https://streak-stats.demolab.com?user=ragul1104&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak" />
 
-«Test. Troubleshoot. Integrate. Improve.»
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ragulv11/">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:rag7674@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/mr._crazy_evil/">
+<img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" alt="Instagram" />
+</a>
+
+</div>
+
+---
+
+## 💬 Engineering Mindset
+
+> **Test. Troubleshoot. Integrate. Improve.**
 
 I believe in continuous learning, practical engineering, and building reliable systems through experimentation and problem-solving.
 
----
+<div align="center">
 
-<p align="center">
-  ⚡ <i>Precision in engineering. Innovation in technology. Security in code.</i> ⚡
-</p>
+⚡ *Precision in Engineering. Innovation in Technology. Security in Code.* ⚡
+
+</div>
