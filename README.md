@@ -1,81 +1,100 @@
-## 👋 About Me
+👋 About Me
 
 <table align="center">
   <tr>
     <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp6Y2Z4bmZueHpieGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
-           alt="Cybersecurity Animation" 
-           width="220" 
-           style="border-radius: 15px;" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+           alt="Developer coding animation"
+           width="220" />
     </td>
-    <td width="70%">
+    <td width="70%">Hi, I'm Ragul 👨‍💻
 
-### Hi, I'm Ragul 👨‍💻  
-🚀 **Cybersecurity Aspirant & Web Developer**
+🚀 Integration & Test Engineer | Drone Engineer & Pilot
 
-- 🎓 **Final Semester BCA Student** at Periyar University  
-- 🔐 Developer of **EmojiGuard (Emojicrypt)** — text-to-emoji cryptography  
-- 🇮🇳 Preparing for **CDS (OTA)** to serve as an officer in the Indian Army  
-- 🏀 Passionate about **Basketball** and **Long-Distance Running** - 🌱 Constantly improving **Network Security** and **Cryptographic Logic**
+- 💼 Integration & Test Engineer at Killis Bird LLP
+- 🎓 BCA Student at Periyar University
+- 🚁 Passionate about UAV systems, drone integration, and FPV technology
+- 🛠️ Exploring PX4, ArduPilot, Betaflight, and INAV
+- 🔐 Interested in cybersecurity, cryptography, and network security
+- 💻 Developer of EmojiGuard (Emojicrypt) — text-to-emoji cryptography
+- 🌱 Continuously learning through hands-on engineering and technical projects
 
-🔹 *Bridging the gap between secure communication and modern web tech.*
+Combining engineering, software, and technology to solve real-world problems.
 
-    </td>
+</td>
+
   </tr>
-</table>
+</table>---
+
+🛠️ Skills & Technologies
+
+🚁 Drone & UAV Engineering
+
+- UAV Systems
+- Drone Integration
+- Integration Testing
+- System Testing
+- Flight Controller Configuration
+- PX4
+- ArduPilot
+- Betaflight
+- INAV
+- QGroundControl
+- Mission Planner
+- FPV Systems
+
+💻 Programming & Web Development
+
+""My Skills" (https://skillicons.dev/icons?i=python,html,css,js,react,&theme=dark)" (https://skillicons.dev)
+
+🔐 Cybersecurity
+
+- Cryptography
+- Network Security
+- Secure Communication
+
+⚙️ Tools & Platforms
+
+""My Skills" (https://skillicons.dev/icons?i=git,github,vscode,windows,powershell,linux&theme=dark)" (https://skillicons.dev)
 
 ---
 
-## 🛠️ Skills & Tools
+🚀 Projects
 
-### 🛡️ Cybersecurity & Logic
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,py&theme=dark)](https://skillicons.dev)
+🔐 EmojiGuard (Emojicrypt)
 
-### 🎨 Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark)](https://skillicons.dev)
-
-### ⚙️ Tools & OS
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,windows,powershell&theme=dark)](https://skillicons.dev)
-
----
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ragul1104&show_icons=true&theme=radical" alt="" />
-<br>
-<img src="https://streak-stats.demolab.com?user=ragul1104&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak" />
-
-</div>
+A text-to-emoji cryptography project exploring creative methods of transforming text into emoji-based representations.
 
 ---
 
-## 📬 Get In Touch
+📊 GitHub Stats
 
-<p align="center" style="margin-top: 10px;">
-  <a href="mailto:rag7674@gmail.com" style="margin: 0 25px;">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="55" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ragul1104&show_icons=true&theme=radical" alt="Ragul's GitHub Stats" /><br/><img src="https://streak-stats.demolab.com?user=ragul1104&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak" /></div>---
+
+📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:rag7674@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ragulv11" style="margin: 0 25px;">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="55" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ragulv11/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn" />
   </a>
-   <a href="https://www.instagram.com/in/https://www.instagram.com/mr._crazy_evil?igsh=MW4zZXpvc2podGlzMQ==" style="margin: 0 25px;">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="instagram" width="55" />
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mr._crazy_evil/">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" alt="Instagram" />
   </a>
-</p>
+</p>---
 
----
+💬 Engineering Mindset
 
-### 💬 Tech & Defense Dialogs
+«Test. Troubleshoot. Integrate. Improve.»
 
-> **Friend:** “Why are you always running at 5 AM?”  
-> **Me:** “Because the Army doesn't wait for 'npm install' to finish. 🏃‍♂️🇮🇳”  
-
-> **Me:** “EmojiGuard is unhackable.”  
-> **Hacker:** “It’s just a bunch of smiley faces...”  
-> **Me:** “Exactly. Security through obscurity. 😎🔐”  
+I believe in continuous learning, practical engineering, and building reliable systems through experimentation and problem-solving.
 
 ---
 
 <p align="center">
-  ⚡ *Discipline in life, security in code.* ⚡
+  ⚡ <i>Precision in engineering. Innovation in technology. Security in code.</i> ⚡
 </p>
